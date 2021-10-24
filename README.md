@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MinaUoA
-- 👀 I’m interested in Design Science Research
+- 👋 Hi, I’m @MinaUoA.
+- 👀 I’m interested in Design Science Research.
 - 🌱 I’m currently working on blockchain solution.
-- 💞️ I’m looking to collaborate blockchain GRC
+- 💞️ I’m looking to collaborate blockchain GRC.
 - 📫 reach me at: mina.cu@auckland.ac.nz
 
 <!---
